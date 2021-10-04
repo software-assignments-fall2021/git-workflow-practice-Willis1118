@@ -1,2 +1,10 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+Interesting website: *codepen.io*
+
+Interesting points:
+
+- Real-time generation of front-end pages by online editor
+
+- Plenty of webpages patterns to use
+
+- Can view others' work and share your own. 
